@@ -1,0 +1,19 @@
+h1 {
+    font-weight: 700;
+    font-size: 96px;
+    text-align: center;
+
+}
+
+section {
+    height: 100vh;
+    width: 100%;
+    background-image: url('./../../../assets/img/1_hero/JPG/hero_bg.jpg');
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+}
+
