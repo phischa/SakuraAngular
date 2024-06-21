@@ -1,0 +1,45 @@
+#section2 {
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+
+    h2 {
+        margin: 0;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 80px;
+        color: #9F0908;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 64px;
+        text-align: center;
+    }
+
+    .order {
+        display: flex;
+        justify-content: space-evenly;
+        text-align: center;
+        gap: 32px;
+
+        .food-graphic {
+            height: 128px;
+            width: 128px;
+            margin-bottom: 16px;
+        }
+
+        .img-discription {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            font-family: 'Economica', sans-serif;
+            font-size: 56px;
+            font-weight: bold;
+            display: flex;
+            justify-content: center;
+        }
+    }
+}
