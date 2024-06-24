@@ -1,4 +1,4 @@
-#section3 {
+.section3 {
     background-image: url(./../../../assets/img/3_section_our_menu/JPG/section_our_menu_bg.jpg);
     padding-right: 160px;
     padding-left: 160px;
@@ -71,7 +71,7 @@
 }
 
 @media(max-width: 960px) {
-    #section3 {
+    .section3 {
         display: flex;
         justify-content: center; 
         padding-left: 24px;

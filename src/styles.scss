@@ -2,6 +2,17 @@
     margin: 0;
 }
 
+
+//mixin.scss anlegen und in der jeweiligen scss Datei mit import importieren.
+// @mixin dFlex ($jc: center, $ai: center, $g: 0px) {
+//     display: flex;
+//     justify-content: $jc;
+//     align-items: $ai;
+//     gap: $g;
+// }
+
+// @include dFlex($jc: space-between);
+
 /* raleway-regular - latin */
 @font-face {
     font-display: swap;
